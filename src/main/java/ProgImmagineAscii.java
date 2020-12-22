@@ -4,7 +4,7 @@ public class ProgImmagineAscii
 {
     public static void main(String[] args) throws IOException 
     {
-        String Immagine = "lapis.jpg";
+        String Immagine = "colore.jpg";
         String Risultato = "Test.txt";
         
         Converti Conversione = new Converti();
